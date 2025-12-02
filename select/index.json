@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "天国",
+  "base_artist": "Mrs. GREEN APPLE",
+  "createdAt": "2025-12-02T12:42:50.211031Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "天国",
+      "artist": "Hitsujibungaku",
+      "has_synced": false,
+      "path": "select/01_天国_Hitsujibungaku.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "天国",
+      "artist": "ゆず",
+      "has_synced": false,
+      "path": "select/02_天国_ゆず.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "天国",
+      "artist": "羊文学",
+      "has_synced": false,
+      "path": "select/03_天国_羊文学.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "HEAVEN 天国 - Radio Edit",
+      "artist": "Lazy Bear",
+      "has_synced": false,
+      "path": "select/04_HEAVEN_天国_-_Radio_Edit_Lazy_Bear.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "天国･オン･ザ･ビーチ",
+      "artist": "サザンオールスターズ",
+      "has_synced": false,
+      "path": "select/05_天国・オン・ザ・ビーチ_サザンオールスターズ.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "天国 - Heaven",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/06_天国_-_Heaven_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "天国",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/07_天国_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "天国 / Heaven",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/08_天国___Heaven_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "天国",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/pl_01_天国_Mrs._GREEN_APPLE.txt"
+    }
+  ]
+}
